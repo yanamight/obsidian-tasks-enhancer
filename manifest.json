@@ -1,0 +1,9 @@
+{
+  "id": "tasks-enhancer",
+  "name": "Tasks Enhancer",
+  "version": "2.0.0",
+  "minAppVersion": "1.4.0",
+  "description": "任务增强：按完成时间排序、选中行转为任务、一键整理归档到 Tasks 日期文件。",
+  "author": "local",
+  "isDesktopOnly": false
+}
